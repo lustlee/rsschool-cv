@@ -27,12 +27,11 @@ function maskify(cc) {
   return cc
 }
 ```
-
-##### Experience
-
 ##### Education
 * __University__: Kyrgyz Economic University
 * __Courses__: https://attractor-school.com/bishkek/js
 
-###### English
-A2 (Worked with foreigners for a long time)
+###### Language
+English - A2 (Worked with foreigners for a long time)
+Russian - Native
+Kyrgyz - Basic
